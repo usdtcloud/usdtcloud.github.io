@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27c79ebd-c130-4391-9885-4d45c826e911" name="默认更改列表" comment="默认更改列表">
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset-manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/error.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.6bcfc20e64ac383fcab394b2ec3e4a19.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.99a30cafed47537c3dcf62d15227fe01.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/precache-manifest.cd4cd3907afbdd81cd0105efab231fe0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/responsive.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/device-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/img-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.678e56af.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.678e56af.chunk.js.LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/2.678e56af.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery.tweet.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.adbe0740.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.adbe0740.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.706b82cd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/runtime-main.706b82cd.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BabelJs/babel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BabelJs/babel.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/css/bootstrap-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/css/bootstrap-theme.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/css/bootstrap-theme.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/css/bootstrap-theme.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap3/js/npm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap-grid.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap-grid.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap-grid.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap-grid.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap-reboot.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap-reboot.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap-reboot.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap-reboot.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/css/bootstrap.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/js/bootstrap.bundle.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/js/bootstrap.bundle.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/js/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/js/bootstrap.bundle.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/js/bootstrap.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/js/bootstrap.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/js/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/BootStrap/Bootstrap4/js/bootstrap.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/CssLibrary/BulmaCss/bulma.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/CssLibrary/BulmaCss/bulma.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/CssLibrary/BulmaCss/bulma.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/css/font-awesome.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/css/font-awesome.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/fonts/FontAwesome.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/fonts/fontawesome-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/fonts/fontawesome-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/fonts/fontawesome-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/fonts/fontawesome-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/fonts/fontawesome-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/animated.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/bordered-pulled.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/core.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/fixed-width.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/font-awesome.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/icons.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/larger.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/list.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/mixins.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/path.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/rotated-flipped.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/screen-reader.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/stacked.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/less/variables.less" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_animated.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_bordered-pulled.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_core.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_fixed-width.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_icons.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_larger.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_list.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_mixins.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_path.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_rotated-flipped.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_screen-reader.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_stacked.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/_variables.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/FontAwesome/scss/font-awesome.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Html5shivJs/r29/[Japan][日本 欧美][1Pondo 10musume Caribbeancom Pacopacomama] 高清 超清 蓝光 种子 ( 2018年 2月 ).rar/.01AB82A42F8F1CEF601D0324F7C97590F5F3A761.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Html5shivJs/r29/[Japan][日本 欧美][1Pondo 10musume Caribbeancom Pacopacomama] 高清 超清 蓝光 种子 ( 2018年 2月 ).rar/.[Japan][日本 欧美][1Pondo 10musume Caribbeancom Pacopacomama] 高清 超清 蓝光 种子 ( 2018年 2月 ).rar.torrent" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Html5shivJs/r29/[Japan][日本 欧美][1Pondo 10musume Caribbeancom Pacopacomama] 高清 超清 蓝光 种子 ( 2018年 2月 ).rar/[Japan][日本 欧美][1Pondo 10musume Caribbeancom Pacopacomama] 高清 超清 蓝光 种子 ( 2018年 2月 ).rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Html5shivJs/r29/html5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Html5shivJs/r29/html5.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/Dev/jquery-1.9.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/Dev/jquery-2.1.4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/Dev/jquery-3.4.1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/Plug-in/Form/Dev/jquery.form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/Plug-in/Form/jquery.form.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/Plug-in/Md5/md5.pro.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/Plug-in/Qrcode/Dev/jquery.qrcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/Plug-in/Qrcode/Dev/qrcode.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/Plug-in/Qrcode/jquery.qrcode.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/jquery-1.9.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/jquery-2.1.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Jquery/jquery-3.4.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layer/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layer/mobile/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layer/mobile/need/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layer/theme/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layer/theme/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layer/theme/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layer/theme/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layer/theme/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layer/theme/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/layui.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/layui.mobile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/modules/code.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/modules/laydate/default/laydate.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/modules/layer/default/icon-ext.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/modules/layer/default/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/modules/layer/default/layer.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/modules/layer/default/loading-0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/modules/layer/default/loading-1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/css/modules/layer/default/loading-2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/font/iconfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/font/iconfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/font/iconfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/font/iconfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/font/iconfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/0.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/10.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/11.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/12.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/13.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/14.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/15.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/16.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/17.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/18.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/19.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/20.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/21.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/22.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/23.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/24.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/25.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/26.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/27.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/28.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/29.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/30.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/31.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/32.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/33.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/34.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/35.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/36.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/37.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/38.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/39.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/4.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/40.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/41.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/42.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/43.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/44.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/45.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/46.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/47.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/48.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/49.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/50.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/51.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/52.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/53.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/54.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/55.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/56.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/57.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/58.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/59.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/6.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/60.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/61.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/62.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/63.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/64.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/65.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/66.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/67.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/68.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/69.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/7.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/70.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/71.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/8.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/images/face/9.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/carousel.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/code.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/colorpicker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/element.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/flow.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/form.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/laydate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/layedit.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/layer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/laypage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/laytpl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/mobile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/rate.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/slider.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/table.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/transfer.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/tree.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/upload.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/lay/modules/util.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/layui.all.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Layui/layui.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-art/cjs/react-art.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-art/cjs/react-art.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-art/umd/react-art.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-art/umd/react-art.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-server.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-server.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-server.node.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-server.node.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-test-utils.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-test-utils.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-fizz.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-fizz.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-fizz.node.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-fizz.node.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-flight-client.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-flight-client.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-flight-server.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-flight-server.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-flight-server.node.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-flight-server.node.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-native-dependencies.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom-unstable-native-dependencies.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/cjs/react-dom.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-server.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-server.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-test-utils.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-test-utils.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-unstable-fizz.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-unstable-fizz.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-unstable-flight-client.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-unstable-flight-client.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-unstable-flight-server.browser.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-unstable-flight-server.browser.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-unstable-native-dependencies.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom-unstable-native-dependencies.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-dom/umd/react-dom.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-is/cjs/react-is.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-is/cjs/react-is.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-is/umd/react-is.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-is/umd/react-is.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-test-renderer/cjs/react-test-renderer-shallow.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-test-renderer/cjs/react-test-renderer-shallow.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-test-renderer/cjs/react-test-renderer.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-test-renderer/cjs/react-test-renderer.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-test-renderer/umd/react-test-renderer-shallow.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-test-renderer/umd/react-test-renderer-shallow.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-test-renderer/umd/react-test-renderer.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react-test-renderer/umd/react-test-renderer.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react/cjs/react.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react/cjs/react.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react/umd/react.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react/umd/react.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/react/umd/react.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/cjs/scheduler-tracing.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/cjs/scheduler-tracing.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/cjs/scheduler-tracing.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/cjs/scheduler-unstable_mock.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/cjs/scheduler-unstable_mock.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/cjs/scheduler.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/cjs/scheduler.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/umd/scheduler-tracing.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/umd/scheduler-tracing.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/umd/scheduler-tracing.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/umd/scheduler-unstable_mock.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/umd/scheduler-unstable_mock.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/umd/scheduler.development.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/umd/scheduler.production.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/React/16.12/scheduler/umd/scheduler.profiling.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/RepuireJs/require.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/ResetCss/reset.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/RespondJs/respond.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.common.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.common.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.esm.browser.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.esm.browser.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.runtime.common.dev.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.runtime.common.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.runtime.common.prod.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.runtime.esm.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.runtime.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vendor/Vue/2.6.1/vue.runtime.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/LICENSE.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/README-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/azure/README-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/azure/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/azure/azuredeploy.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/azure/azuredeploy.parameters.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/azure/custom_deployment_screenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/azure/install.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/clients-xauth-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/clients-xauth.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/clients-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/clients.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/ikev2-howto-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/ikev2-howto.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/images/azure-deploy-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/images/do-install-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/images/linode-deploy-button.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/images/vpn-profile-Android.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/images/vpn-properties-zh.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/images/vpn-properties.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/manage-users-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/manage-users.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/uninstall-zh.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/docs/uninstall.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/extras/vpnupgrade.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/extras/vpnupgrade_centos.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/vpnsetup.sh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vpn/vpnsetup_centos.sh" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tb2gjnIzKolkSETl9uJ0xoI7IZ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="添加" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27c79ebd-c130-4391-9885-4d45c826e911" name="默认更改列表" comment="" />
+      <created>1623023581491</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623023581491</updated>
+      <workItem from="1623023583063" duration="798000" />
+      <workItem from="1627292662559" duration="803000" />
+      <workItem from="1627294406989" duration="648000" />
+      <workItem from="1627352520684" duration="5000" />
+      <workItem from="1627353176506" duration="2000" />
+      <workItem from="1627353827200" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
